@@ -1,3 +1,7 @@
 ### Yo!
 
-I'm Mark Frost - a software engineer at [Resume.io](https://resume.io/). Also, working on [Released.at](https://released.at/) and [Bung.dev](https://bung.dev/)
+I'm Mark Frost - a software engineer at [Resume.io](https://resume.io/).
+
+My own projects:
+- [Released.at](https://released.at/) 
+- [Bung.dev](https://bung.dev/)
