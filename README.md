@@ -7,4 +7,4 @@ My own projects:
 
 
 
-https://www.codewars.com/users/frostmark/badges/micro
+![cw](https://www.codewars.com/users/frostmark/badges/micro)
